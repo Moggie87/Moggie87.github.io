@@ -8,4 +8,3 @@ My background in the technical field has helped me develop strong problem-solvin
 I'm passionate about continuously learning and growing in this field, and I’m excited to build new skills, contribute to open-source projects, and collaborate with others along the way. 
 Always eager to take on new challenges and improve – let’s connect!
 
-[Articles] (/articles)
